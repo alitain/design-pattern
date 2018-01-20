@@ -1,0 +1,14 @@
+{
+    "name": "alitain/design-pattern",
+    "description": "design pattern examples",
+    "type": "practice",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "alitain",
+            "email": "alitain.dev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
