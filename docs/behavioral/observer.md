@@ -12,5 +12,8 @@
 * 当一个对象的改变需要同时改变其他对象，而不知道具体有多少对象有待改变。
 * 当一个对象必须通知其他对象，而它又不能假定其他对象是谁。换言之，你不希望这些对象是紧密耦合的。
 
+### 实现
+php 官方扩展库提供了相关的接口，如 SplSubject，SplObserver 和 SplObserverStorage。
+
 ### UML类图
 ![observer](http://ohtd7tndv.bkt.clouddn.com/observer.png)
