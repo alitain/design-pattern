@@ -13,7 +13,7 @@
 
 * Adapter （适配器）
 * Bridge （桥接）
-* Composite （组成）
+* [Composite （组合）](https://github.com/alitain/design-pattern/blob/master/docs/structural/composite.md)
 * Decorator （装饰）
 * Facade （外观）
 * FlyWeight （享元）
