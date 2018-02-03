@@ -5,7 +5,7 @@
 
 * Abstract Factory （抽象工厂）
 * Builder （生成器）
-* Factory Method （工厂方法）
+* [Factory Method （工厂方法）](https://github.com/alitain/design-pattern/blob/master/docs/creational/factory_method.md)
 * Prototype （原型）
 * Singleton （单例）
 
