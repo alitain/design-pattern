@@ -6,10 +6,10 @@
  * Time: 下午1:04
  */
 
-namespace Alitain\DesignPattern\Behavioral\Structural;
+namespace Alitain\DesignPattern\Structural\Composite;
 
 
-class Line implements DrawableInterface
+class Line implements Drawable
 {
     /**
      * @return mixed|string

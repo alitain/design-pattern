@@ -6,13 +6,13 @@
  * Time: 下午1:29
  */
 
-namespace Alitain\DesignPattern\Behavioral\Structural;
+namespace Alitain\DesignPattern\Structural\Composite;
 
 
-class Picture implements DrawableInterface
+class Picture implements Drawable
 {
     /**
-     * @var DrawableInterface[]
+     * @var Drawable[]
      */
     protected $elements;
 
@@ -33,9 +33,9 @@ class Picture implements DrawableInterface
     }
 
     /**
-     * @param DrawableInterface $e
+     * @param Drawable $e
      */
-    public function addElement(DrawableInterface $e)
+    public function addElement(Drawable $e)
     {
         $this->elements[] = $e;
     }

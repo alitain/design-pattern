@@ -6,10 +6,10 @@
  * Time: 下午1:02
  */
 
-namespace Alitain\DesignPattern\Behavioral\Structural;
+namespace Alitain\DesignPattern\Structural\Composite;
 
 
-interface DrawableInterface
+interface Drawable
 {
     /**
      * @return mixed

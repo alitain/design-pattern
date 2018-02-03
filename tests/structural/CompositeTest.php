@@ -8,9 +8,9 @@
 namespace Alitain\DesignPattern\Tests\Behavioral\Composite;
 
 use \PHPUnit\Framework\TestCase;
-use Alitain\DesignPattern\Behavioral\Structural\Line;
-use Alitain\DesignPattern\Behavioral\Structural\Text;
-use Alitain\DesignPattern\Behavioral\Structural\Picture;
+use Alitain\DesignPattern\Structural\Composite\Line;
+use Alitain\DesignPattern\Structural\Composite\Text;
+use Alitain\DesignPattern\Structural\Composite\Picture;
 
 class CompositeTest extends TestCase
 {
