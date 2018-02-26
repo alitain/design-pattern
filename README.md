@@ -40,7 +40,7 @@ composer install
 
 ### 测试
 ```
-vendor/bin/phpunit tests/*
+vendor/bin/phpunit tests/
 ```
 
 ### 更多

@@ -5,8 +5,6 @@
  * Date: 2018/2/3
  * Time: 下午8:37
  */
-namespace Alitain\DesignPattern\Tests\Creational\FactoryMethod;
-
 use Alitain\DesignPattern\Creational\FactoryMethod\Editor;
 use Alitain\DesignPattern\Creational\FactoryMethod\Text;
 use Alitain\DesignPattern\Creational\FactoryMethod\Csv;
@@ -14,6 +12,9 @@ use \PHPUnit\Framework\TestCase;
 
 class FactoryMethodTest extends TestCase
 {
+    /**
+     * @var Editor $editor
+     */
     protected $editor;
 
     protected function setUp()

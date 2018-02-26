@@ -1,7 +1,4 @@
 <?php
-
-namespace Alitain\DesignPattern\Tests\Behavioral\Observer;
-
 use Alitain\DesignPattern\Behavioral\Observer\ConcreteObserver;
 use Alitain\DesignPattern\Behavioral\Observer\ConcreteSubject;
 use \PHPUnit\Framework\TestCase;
@@ -21,6 +18,9 @@ class ObserverTest extends TestCase
         $this->observer = new ConcreteObserver();
     }
 
+    /**
+     * @throws ReflectionException
+     */
     public function testAttachDetach()
     {
         $subject = new ConcreteSubject();

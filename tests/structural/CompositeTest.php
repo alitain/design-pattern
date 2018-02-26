@@ -5,8 +5,6 @@
  * Date: 2018/1/28
  * Time: 下午1:36
  */
-namespace Alitain\DesignPattern\Tests\Behavioral\Composite;
-
 use \PHPUnit\Framework\TestCase;
 use Alitain\DesignPattern\Structural\Composite\Line;
 use Alitain\DesignPattern\Structural\Composite\Text;
