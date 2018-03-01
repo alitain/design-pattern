@@ -11,7 +11,7 @@
 
 #### Structural （结构型）
 
-* Adapter （适配器）
+* [Adapter （适配器）](https://github.com/alitain/design-pattern/blob/master/docs/structural/adapter.md)
 * Bridge （桥接）
 * [Composite （组合）](https://github.com/alitain/design-pattern/blob/master/docs/structural/composite.md)
 * Decorator （装饰）
