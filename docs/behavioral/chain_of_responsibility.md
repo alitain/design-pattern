@@ -19,10 +19,10 @@
 ![chain_of_responsibility](http://ohtd7tndv.bkt.clouddn.com/chain_of_responsibility.png)
 
 ### 参与者
-`AbstractHandler` 抽象处理者，内部定义了当存在下一个继任者的时候，会自动调用继任者的处理方法。
-`PostRequestOnlyHandler` POST请求检查者，当检查到请求方法不为 POST 时，抛出异常。
-`RequestHandler` 请求处理者，默认作为最后的请求处理者。
-`Request` 模拟的请求对象。
+* `AbstractHandler` 抽象处理者，内部定义了当存在下一个继任者的时候，会自动调用继任者的处理方法。
+* `PostRequestOnlyHandler` POST请求检查者，当检查到请求方法不为 POST 时，抛出异常。
+* `RequestHandler` 请求处理者，默认作为最后的请求处理者。
+* `Request` 模拟的请求对象。
 
 ### 相关模式
 * Chain of Responsibility（职责链模式）与 Composite（组合模式）一起使用。在这种情况下，一个构件的父构件可作为它的后继。
