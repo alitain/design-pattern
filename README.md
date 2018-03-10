@@ -21,7 +21,7 @@
 
 #### Behavioral （行为型）
 
-* Chain of responsibility （责任链）
+* [Chain of responsibility （责任链）](https://github.com/alitain/design-pattern/blob/master/docs/behavioral/chain_of_responsibility.md)
 * [Command （命令）](https://github.com/alitain/design-pattern/blob/master/docs/behavioral/command.md)
 * Interpreter （解释器）
 * Iterator （迭代器）
