@@ -12,7 +12,7 @@
 #### Structural （结构型）
 
 * [Adapter （适配器）](https://github.com/alitain/design-pattern/blob/master/docs/structural/adapter.md)
-* Bridge （桥接）
+* [Bridge （桥接）](https://github.com/alitain/design-pattern/blob/master/docs/structural/bridge.md)
 * [Composite （组合）](https://github.com/alitain/design-pattern/blob/master/docs/structural/composite.md)
 * Decorator （装饰）
 * Facade （外观）
