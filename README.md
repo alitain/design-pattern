@@ -31,7 +31,7 @@
 * State （状态）
 * Strategy （策略）
 * Template Method （模板方法）
-* Visitor （访问者）
+* [Visitor （访问者）](https://github.com/alitain/design-pattern/blob/master/docs/behavioral/visitor.md)
 
 ### 安装
 ```
