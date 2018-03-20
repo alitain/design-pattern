@@ -17,7 +17,7 @@
 * Decorator （装饰）
 * Facade （外观）
 * FlyWeight （享元）
-* Proxy （代理）
+* [Proxy （代理）](https://github.com/alitain/design-pattern/blob/master/docs/structural/proxy.md)
 
 #### Behavioral （行为型）
 
