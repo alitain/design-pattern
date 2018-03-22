@@ -1,0 +1,7 @@
+language: php
+
+php:
+  - nightly
+
+before_script: composer install
+script: phpunit tests/
