@@ -3,5 +3,5 @@ language: php
 php:
   - nightly
 
-before_script: composer install && composer dump-autoload
+before_script: composer install
 script: vendor/bin/phpunit tests/
