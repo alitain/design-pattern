@@ -6,7 +6,7 @@
  * Time: 下午7:53
  */
 
-namespace Alitain\DesignPattern\creational\FactoryMethod;
+namespace Alitain\DesignPattern\Creational\FactoryMethod;
 
 class Text implements DocumentInterface
 {

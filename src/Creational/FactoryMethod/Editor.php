@@ -6,7 +6,7 @@
  * Time: 下午8:17
  */
 
-namespace Alitain\DesignPattern\creational\FactoryMethod;
+namespace Alitain\DesignPattern\Creational\FactoryMethod;
 
 
 class Editor extends AbstractEditor
