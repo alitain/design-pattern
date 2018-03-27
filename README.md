@@ -15,7 +15,7 @@
 * [Bridge （桥接）](https://github.com/alitain/design-pattern/blob/master/docs/structural/bridge.md)
 * [Composite （组合）](https://github.com/alitain/design-pattern/blob/master/docs/structural/composite.md)
 * Decorator （装饰）
-* Facade （外观）
+* [Facade （外观）](https://github.com/alitain/design-pattern/blob/master/docs/structural/facade.md)
 * FlyWeight （享元）
 * [Proxy （代理）](https://github.com/alitain/design-pattern/blob/master/docs/structural/proxy.md)
 
