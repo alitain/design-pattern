@@ -16,10 +16,11 @@
 SPL 提供了统一的迭代器接口 Iterator，只需要实现这个接口我们创建出来一个可以迭代的对象。我们创建 Student这个类，同时创建 StudentList实现 Iterator的接口。
 
 ### UML类图
-![iterator](http://ohtd7tndv.bkt.clouddn.com/iteraotr.png)
+![iterator](http://ohtd7tndv.bkt.clouddn.com/iterator.png)
 
 ### 参与者
 * `Iterator` SPL 提供的统一迭代器接口
+* `Countable` SPL 提供的可计量接口
 * `Student` 学生类，有编号姓名等属性
 * `StudentList` 学生列表，即学生的聚合对象
 
