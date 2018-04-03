@@ -26,7 +26,7 @@
 * Interpreter （解释器）
 * [Iterator （迭代器）](https://github.com/alitain/design-pattern/blob/master/docs/behavioral/iterator.md)
 * Mediator （中介）
-* Memento （备忘录）
+* [Memento （备忘录）](https://github.com/alitain/design-pattern/blob/master/docs/behavioral/memento.md)
 * [Observer （观察者）](https://github.com/alitain/design-pattern/blob/master/docs/behavioral/observer.md)
 * State （状态）
 * Strategy （策略）
