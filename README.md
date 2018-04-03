@@ -29,7 +29,7 @@
 * [Memento （备忘录）](https://github.com/alitain/design-pattern/blob/master/docs/behavioral/memento.md)
 * [Observer （观察者）](https://github.com/alitain/design-pattern/blob/master/docs/behavioral/observer.md)
 * State （状态）
-* Strategy （策略）
+* [Strategy （策略）](https://github.com/alitain/design-pattern/blob/master/docs/behavioral/strategy.md)
 * Template Method （模板方法）
 * [Visitor （访问者）](https://github.com/alitain/design-pattern/blob/master/docs/behavioral/visitor.md)
 
