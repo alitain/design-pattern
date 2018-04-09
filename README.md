@@ -30,7 +30,7 @@
 * [Observer （观察者）](https://github.com/alitain/design-pattern/blob/master/docs/behavioral/observer.md)
 * State （状态）
 * [Strategy （策略）](https://github.com/alitain/design-pattern/blob/master/docs/behavioral/strategy.md)
-* Template Method （模板方法）
+* [Template Method （模板方法）](https://github.com/alitain/design-pattern/blob/master/docs/behavioral/template_method.md)
 * [Visitor （访问者）](https://github.com/alitain/design-pattern/blob/master/docs/behavioral/visitor.md)
 
 ### 安装
