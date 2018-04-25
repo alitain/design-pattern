@@ -19,6 +19,7 @@
 * `InExpression` 子串是否存在文本中
 * `AndExpression` 与表达式
 * `OrExpression` 或表达式
+* `Expression` 表达式，由解析表达式，并用 in, and, or表达式解析
 
 ### 相关模式
 * Composite（组合模式）：抽象语法书树是一个复杂模式的实例。
