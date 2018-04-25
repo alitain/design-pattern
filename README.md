@@ -23,7 +23,7 @@
 
 * [Chain of responsibility （责任链）](https://github.com/alitain/design-pattern/blob/master/docs/behavioral/chain_of_responsibility.md)
 * [Command （命令）](https://github.com/alitain/design-pattern/blob/master/docs/behavioral/command.md)
-* Interpreter （解释器）
+* [Interpreter （解释器）](https://github.com/alitain/design-pattern/blob/master/docs/behavioral/interpreter.md)
 * [Iterator （迭代器）](https://github.com/alitain/design-pattern/blob/master/docs/behavioral/iterator.md)
 * Mediator （中介）
 * [Memento （备忘录）](https://github.com/alitain/design-pattern/blob/master/docs/behavioral/memento.md)
