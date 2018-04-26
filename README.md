@@ -25,7 +25,7 @@
 * [Command （命令）](https://github.com/alitain/design-pattern/blob/master/docs/behavioral/command.md)
 * [Interpreter （解释器）](https://github.com/alitain/design-pattern/blob/master/docs/behavioral/interpreter.md)
 * [Iterator （迭代器）](https://github.com/alitain/design-pattern/blob/master/docs/behavioral/iterator.md)
-* Mediator （中介）
+* [Mediator （中介）](https://github.com/alitain/design-pattern/blob/master/docs/behavioral/mediator.md)
 * [Memento （备忘录）](https://github.com/alitain/design-pattern/blob/master/docs/behavioral/memento.md)
 * [Observer （观察者）](https://github.com/alitain/design-pattern/blob/master/docs/behavioral/observer.md)
 * State （状态）
