@@ -17,7 +17,7 @@
 
 ### 参与者
 * `MediatorInterface` 中介者定一个接口用于和各个同事通信
-* `ConreteMediator` 具体的中介者通过协调各同同事对象实现协调行为
+* `ConcreteMediator` 具体的中介者通过协调各同同事对象实现协调行为
 * `AbstractColleague` 抽象的同事，可以找到中介者
 * `ConcreteColleagueA` 具体同事A与其他同事通信时需通过中介者
 * `ConcreteColleagueB` 具体同事与其他同事通信时需通过中介者
