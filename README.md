@@ -16,7 +16,7 @@
 * [Composite （组合）](https://github.com/alitain/design-pattern/blob/master/docs/structural/composite.md)
 * [Decorator （装饰）](https://github.com/alitain/design-pattern/blob/master/docs/structural/decorator.md)
 * [Facade （外观）](https://github.com/alitain/design-pattern/blob/master/docs/structural/facade.md)
-* FlyWeight （享元）
+* [FlyWeight （享元）](https://github.com/alitain/design-pattern/blob/master/docs/structural/flyweight.md)
 * [Proxy （代理）](https://github.com/alitain/design-pattern/blob/master/docs/structural/proxy.md)
 
 #### Behavioral （行为型）
