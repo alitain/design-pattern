@@ -34,15 +34,13 @@ class IteratorTest extends TestCase
         $s2 = new Student(4, 'mary');
         $s3 = new Student(9, 'bob');
 
-        $count = count($list);
-        $this->assertEquals($count, 0);
+        $this->assertCount(0, $list);
 
         $list->addStudent($s1);
         $list->addStudent($s2);
         $list->addStudent($s3);
 
-        $count = count($list);
-        $this->assertEquals($count, 3);
+        $this->assertCount(3, $list);
 
         $list->removeStudent($s2);
         $names = [];
@@ -51,8 +49,7 @@ class IteratorTest extends TestCase
         }
 
         $this->assertEquals(['alex', 'bob'], $names);
-        $count = count($list);
-        $this->assertEquals($count, 2);
+        $this->assertCount(2, $list);
 
     }
 }
