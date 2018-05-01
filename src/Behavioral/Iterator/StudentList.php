@@ -15,7 +15,7 @@ class StudentList implements \Iterator, \Countable
     /**
      * @var Student[]
      */
-    private $list;
+    private $list = [];
 
     /**
      * @var integer
