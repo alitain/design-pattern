@@ -1,6 +1,6 @@
 # Builder（生成器模式）
 
-### 定义
+### 意图
 将一个复杂对象的构建和它的表示分离，使得同样的构建过程可以创建不同的表示。
 
 ### 适用场景
@@ -14,6 +14,9 @@
 ### 实现
 我们假设一类复杂产品由A、B、C三部分组成，使用 Builder抽象出这类产品的构建过程。
 
+### 代码
+[Github](https://github.com/alitain/design-pattern/tree/master/src/Creational/Builder)
+
 ### UML类图
 ![builder](http://ohtd7tndv.bkt.clouddn.com/dp_builder.png)
 
@@ -25,5 +28,5 @@
 * `Product` 表示被构造的复杂对象；包含定义组成部件的类，包括将这些部件装配成最终产品的接口。
 
 ### 相关模式
-* Abstract Factory（抽象工厂模式）与 Builder模式相似，因为它也可以创建复杂对象。主要的区别是 Builder模式着重于一步步构造一个复杂对象，总是在最后一步返回产品，而对于 Abstract Factory来说，产品是立即返回的。
-* Composite （组合模式）通常是用 Builder生成的。
+* [Abstract Factory （抽象工厂）](https://github.com/alitain/design-pattern/blob/master/docs/creational/abstract_factory.md)模式与 Builder模式相似，因为它也可以创建复杂对象。主要的区别是 Builder模式着重于一步步构造一个复杂对象，总是在最后一步返回产品，而对于 Abstract Factory来说，产品是立即返回的。
+* [Composite （组合）](https://github.com/alitain/design-pattern/blob/master/docs/structural/composite.md)模式通常是用 Builder生成的。

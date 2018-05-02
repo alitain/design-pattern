@@ -1,6 +1,6 @@
 # Interpreter（解释器模式）
 
-### 定义
+### 意图
 给定一个语言，定义它的文法的一种表示，并定一个解释器，这个解释器使用该表达式来解释语言中的句子。
 
 ### 适用性
@@ -10,6 +10,9 @@
 
 ### 实现
 我们实现一个简单的字符串语法，表达式为('a & b | c', str)，表明str中需含有a和b，或包含c。
+
+### 代码
+[Github](https://github.com/alitain/design-pattern/tree/master/src/Behavioral/Interpreter)
 
 ### UML类图
 ![interpreter](http://ohtd7tndv.bkt.clouddn.com/dp_interpreter.png)
@@ -22,7 +25,7 @@
 * `Expression` 表达式，由解析表达式，并用 in, and, or表达式解析
 
 ### 相关模式
-* Composite（组合模式）：抽象语法书树是一个复杂模式的实例。
-* Flyweight（享元模式）：说明了如何在抽象语法树中共享终结符。
-* Iterator（迭代器模式）：解释器可用一个迭代器遍历该结构。
-* Visitor（访问者模式）：可用来在一个类中维护抽象语法树种的各个节点的行为。
+* [Composite （组合）](https://github.com/alitain/design-pattern/blob/master/docs/structural/composite.md)模式：抽象语法书树是一个复杂模式的实例。
+* [FlyWeight （享元）](https://github.com/alitain/design-pattern/blob/master/docs/structural/flyweight.md)模式：说明了如何在抽象语法树中共享终结符。
+* [Iterator （迭代器）](https://github.com/alitain/design-pattern/blob/master/docs/behavioral/iterator.md)模式：解释器可用一个迭代器遍历该结构。
+* [Visitor （访问者）](https://github.com/alitain/design-pattern/blob/master/docs/behavioral/visitor.md)模式：可用来在一个类中维护抽象语法树种的各个节点的行为。

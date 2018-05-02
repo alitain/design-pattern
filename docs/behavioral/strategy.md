@@ -1,6 +1,6 @@
 # Strategy（策略模式）
 
-### 定义
+### 意图
 定义一些列的算法，把它们一个个封装起来，并且使它们可以互相替换。本模式是的算法可以独立使用它的客户而变化。
 
 ### 别名
@@ -16,6 +16,9 @@
 ### 实现
 我们实现一个数组排序的功能，这个过程中将采取不同的排序算法，不管采取哪种算法最终的排序结果是相同的。
 
+### 代码
+[Github](https://github.com/alitain/design-pattern/tree/master/src/Behavioral/Strategy)
+
 ### UML类图
 ![strategy](http://ohtd7tndv.bkt.clouddn.com/dp_strategy.png)
 
@@ -26,4 +29,4 @@
 * `Context` 上下文。
 
 ### 相关模式
-* Flyweight（享元模式）：Strategy对象经常是很好的轻量级对象。
+* [FlyWeight （享元）](https://github.com/alitain/design-pattern/blob/master/docs/structural/flyweight.md)模式：Strategy对象经常是很好的轻量级对象。

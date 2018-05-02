@@ -1,6 +1,6 @@
 # Memento（备忘录模式）
 
-### 定义
+### 意图
 在不破坏封装的前提下，捕获一个对象的内部状态，并在该对象之外保存这个状态。这样以后就可将该对象恢复到原先保存的状态。
 
 ### 别名
@@ -13,6 +13,10 @@ Token
 
 ### 实现
 我们通过备忘录模式实现 undo 机制。每一次原发器对象的状态更新时，都将生成一个备忘录，并且保存下来。在适当的时候实现撤销操作。
+
+### 代码
+[Github](https://github.com/alitain/design-pattern/tree/master/src/Behavioral/Memento)
+
 ### UML类图
 ![memento](http://ohtd7tndv.bkt.clouddn.com/dp_memento.png)
 
@@ -22,4 +26,4 @@ Token
 * `Caretaker` 管理者，负责保存备忘录，实现撤销操作
 
 ### 相关模式
-* Command（命令模式）：命令可使用备忘录来作为可撤销的操作维护状态。
+* [Command （命令）](https://github.com/alitain/design-pattern/blob/master/docs/behavioral/command.md)模式：命令可使用备忘录来作为可撤销的操作维护状态。

@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/alitain/design-pattern.svg?branch=master)](https://travis-ci.org/alitain/design-pattern)
+
 ### 简介
 使用 PHP 语言实现《设计模式》（可复用面向对象软件的基础）中的 23 个设计模式。
 
@@ -40,9 +42,9 @@ composer install
 
 ### 测试
 ```
-vendor/bin/phpunit tests/
+vendor/bin/phpunit
 ```
 
-### 更多
+### 参考
 
 [DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP)

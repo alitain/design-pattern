@@ -1,6 +1,6 @@
 # Observer（观察者模式）
 
-### 定义
+### 意图
 定义对象间的一种已一对多的依赖关系，当一个对象的状态发生改变时，所有依赖于它的对象都得到通知并自动更新。
 
 ### 别名
@@ -14,6 +14,9 @@
 
 ### 实现
 php 官方扩展库提供了相关的接口，如 SplSubject，SplObserver 和 SplObserverStorage。
+
+### 代码
+[Github](https://github.com/alitain/design-pattern/tree/master/src/Behavioral/Observer)
 
 ### UML类图
 ![observer](http://ohtd7tndv.bkt.clouddn.com/dp_observer.png)

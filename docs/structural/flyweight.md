@@ -1,6 +1,6 @@
 # Flyweight（享元模式）
 
-### 定义
+### 意图
 运用共享技术有效地支持大量细粒度的对象。
 
 ### 适用性
@@ -14,6 +14,9 @@
 ### 实现
 假如我们展示很多数字，数字可以设置成不同的字体，数字由0~9的字符组合而成。
 
+### 代码
+[Github](https://github.com/alitain/design-pattern/tree/master/src/Structural/Flyweight)
+
 ### UML类图
 ![flyweight](http://ohtd7tndv.bkt.clouddn.com/dp_flyweight.png)
 
@@ -23,5 +26,5 @@
 * `FlyweightFactory` 创建并管理 flyweight 对象
 
 ### 相关模式
-* 享元模式通常和 Composite（组合模式）结合起来，用共享叶节点的有向无环图实现一个逻辑上的层次结构。
-* 通常，最好用享元模式实现 State（状态模式）和 Strategy（策略模式）。
+* 享元模式通常和[Composite （组合）](https://github.com/alitain/design-pattern/blob/master/docs/structural/composite.md)模式结合起来，用共享叶节点的有向无环图实现一个逻辑上的层次结构。
+* 通常，最好用享元模式实现[State （状态）](https://github.com/alitain/design-pattern/blob/master/docs/behavioral/state.md)模式和 [Strategy （策略）](https://github.com/alitain/design-pattern/blob/master/docs/behavioral/strategy.md)模式。

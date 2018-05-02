@@ -1,6 +1,6 @@
 # State（状态模式）
 
-### 定义
+### 意图
 允许一个对象在其内部状态改变时改变它的行为。对象看起来似乎修改了它的类。
 
 ### 别名
@@ -13,6 +13,10 @@ Objects for States（状态对象）
 
 ### 实现
 我们用状态模式实现订单的简化流程。假设一个订单通常要经过下单，配送，完成等步骤。
+
+### 代码
+[Github](https://github.com/alitain/design-pattern/tree/master/src/Behavioral/State)
+
 ### UML类图
 ![state](http://ohtd7tndv.bkt.clouddn.com/dp_state.png)
 
@@ -24,5 +28,5 @@ Objects for States（状态对象）
 * `OrderCompleted` 订单已完成状态类
 
 ### 相关模式
-* Flyweight（享元模式）解释了何时以及怎样共享状态对象。
-* 状态对象通常是 Singleton（单例模式）。
+* [FlyWeight （享元）](https://github.com/alitain/design-pattern/blob/master/docs/structural/flyweight.md)模式解释了何时以及怎样共享状态对象。
+* 状态对象通常是[Singleton （单例）](https://github.com/alitain/design-pattern/blob/master/docs/creational/singleton.md)模式。

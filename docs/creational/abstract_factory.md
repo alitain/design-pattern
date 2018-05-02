@@ -1,6 +1,6 @@
 # Abstract Factory（抽象工厂模式）
 
-### 定义
+### 意图
 提供一个创建一些类相关或相互依赖对象的接口，而无需指定它们具体的类。
 
 ### 别名
@@ -13,6 +13,9 @@ Kit
 * 当你要强调一些类相关的产品对象的设计以便进行联合使用时。
 * 当你提供一个产品类库，而只想显示它们的接口而不是实现时。
 
+### 代码
+[Github](https://github.com/alitain/design-pattern/tree/master/src/Creational/AbstractFactory)
+
 ### UML类图
 ![abstract_factory](http://ohtd7tndv.bkt.clouddn.com/dp_abstract_factory.png)
 
@@ -23,5 +26,5 @@ Kit
 * `ConcreteProduct` 被响应的具体工厂创建的产品
 
 ### 相关模式
-* Abstract Factory类通常使用 Factory Method（工厂方法模式）实现，但他们都可以用 Prototype（原型模式）来实现。
-* 一个具体的工厂通常一个 Singleton（单例模式）。
+* Abstract Factory类通常使用[Factory Method （工厂方法）](https://github.com/alitain/design-pattern/blob/master/docs/creational/factory_method.md)模式实现，但他们都可以用 [Prototype （原型）](https://github.com/alitain/design-pattern/blob/master/docs/creational/prototype.md)模式来实现。
+* 一个具体的工厂通常一个[Singleton （单例）](https://github.com/alitain/design-pattern/blob/master/docs/creational/singleton.md)模式。

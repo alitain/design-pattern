@@ -1,6 +1,6 @@
 # Chain of Responsibility（职责链模式）
 
-### 定义
+### 意图
 使多个对象都有机会处理请求，从而避免请求的发送者和接受者之间的耦合关系。将这些对象连成一条链，并沿着这条链传递该请求，直到有一个对象处理它为止。
 
 ### 适用性
@@ -15,6 +15,9 @@
 ### 实现
 我们采取类似 Yii框架中的 Filter实现方式，假设某个功能我们只接受 POST请求，当有 GET等其它请过过来时，会向用户抛出异常。最后处理请求。
 
+### 代码
+[Github](https://github.com/alitain/design-pattern/tree/master/src/Behavioral/ChainOfResponsibility)
+
 ### UML类图
 ![chain_of_responsibility](http://ohtd7tndv.bkt.clouddn.com/dp_chain_of_responsibility.png)
 
@@ -25,4 +28,4 @@
 * `Request` 模拟的请求对象。
 
 ### 相关模式
-* Chain of Responsibility（职责链模式）与 Composite（组合模式）一起使用。在这种情况下，一个构件的父构件可作为它的后继。
+* 职责链模式与 [Composite （组合）](https://github.com/alitain/design-pattern/blob/master/docs/structural/composite.md)模式一起使用。在这种情况下，一个构件的父构件可作为它的后继。
