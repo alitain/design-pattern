@@ -17,7 +17,7 @@
 
 
 ### UML类图
-![adapter](http://ohtd7tndv.bkt.clouddn.com/adapter.png)
+![adapter](http://ohtd7tndv.bkt.clouddn.com/dp_adapter.png)
 
 ### 参与者
 * `TargetInterface` 想要使用的类的接口

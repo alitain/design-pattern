@@ -10,7 +10,7 @@
 * 控制子类扩展。模板方法只在特定调用点"hook"操作。这样就只允许在这些点进行扩展。
 
 ### UML类图
-![template_method](http://ohtd7tndv.bkt.clouddn.com/template_method.png)
+![template_method](http://ohtd7tndv.bkt.clouddn.com/dp_template_method.png)
 
 ### 参与者
 * `AbstractClass` 抽象类，定义抽象的原语操作，具体的类将重定义他们实现一个算法的各个步骤；实现一个模板方法，定义一个算法的骨架。

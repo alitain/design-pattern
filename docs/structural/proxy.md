@@ -15,7 +15,7 @@ Surrogate
 
 
 ### UML类图
-![proxy](http://ohtd7tndv.bkt.clouddn.com/proxy.png)
+![proxy](http://ohtd7tndv.bkt.clouddn.com/dp_proxy.png)
 
 ### 参与者
 * `SubjectInterface` Proxy 和 RealSubject的接口，保证任何使用 RealSubject的地方都可以访问 Proxy

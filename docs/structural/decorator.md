@@ -13,7 +13,7 @@
 * 当不能采用生成子类的方法进行扩充时。一种情况是，可能有大量独立的扩展，每一种组合将产生大量的子类，是的子类数目呈爆炸性增长。另一种情况可能是因为类定义被隐藏，或类定义不能用于生成子类。
 
 ### UML类图
-![decorator](http://ohtd7tndv.bkt.clouddn.com/decorator.png)
+![decorator](http://ohtd7tndv.bkt.clouddn.com/dp_decorator.png)
 
 ### 参与者
 * `ComponentInterface` 组件接口，具体的组件和装饰器需要实现

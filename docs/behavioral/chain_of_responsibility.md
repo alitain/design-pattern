@@ -16,7 +16,7 @@
 我们采取类似 Yii框架中的 Filter实现方式，假设某个功能我们只接受 POST请求，当有 GET等其它请过过来时，会向用户抛出异常。最后处理请求。
 
 ### UML类图
-![chain_of_responsibility](http://ohtd7tndv.bkt.clouddn.com/chain_of_responsibility.png)
+![chain_of_responsibility](http://ohtd7tndv.bkt.clouddn.com/dp_chain_of_responsibility.png)
 
 ### 参与者
 * `AbstractHandler` 抽象处理者，内部定义了当存在下一个继任者的时候，会自动调用继任者的处理方法。

@@ -17,7 +17,7 @@
 我们实现一个数组排序的功能，这个过程中将采取不同的排序算法，不管采取哪种算法最终的排序结果是相同的。
 
 ### UML类图
-![strategy](http://ohtd7tndv.bkt.clouddn.com/strategy.png)
+![strategy](http://ohtd7tndv.bkt.clouddn.com/dp_strategy.png)
 
 ### 参与者
 * `SortStrategyInterface` 排序策略接口

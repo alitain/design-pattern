@@ -13,7 +13,7 @@
 我们通过抽象计算机的启动过程，通电以后先加载 BIOS, BIOS通过一些列的初始化和硬件检测步骤，最终将控制权交给 OS。但是用户只懂得开机关机，并不知道 BIOS内部的工作流程。通过 Facade模式，为用户提供一个简单的接口。
 
 ### UML类图
-![facade](http://ohtd7tndv.bkt.clouddn.com/facade.png)
+![facade](http://ohtd7tndv.bkt.clouddn.com/dp_facade.png)
 
 ### 参与者
 * `Facade` 为用户提供的简单接口

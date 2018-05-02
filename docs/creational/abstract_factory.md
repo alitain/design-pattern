@@ -14,7 +14,7 @@ Kit
 * 当你提供一个产品类库，而只想显示它们的接口而不是实现时。
 
 ### UML类图
-![abstract_factory](http://ohtd7tndv.bkt.clouddn.com/abstract_factory.png)
+![abstract_factory](http://ohtd7tndv.bkt.clouddn.com/dp_abstract_factory.png)
 
 ### 参与者
 * `AbstractFactory` 声明一个创建抽象产品对象的操作接口。

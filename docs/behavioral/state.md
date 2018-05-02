@@ -14,7 +14,7 @@ Objects for States（状态对象）
 ### 实现
 我们用状态模式实现订单的简化流程。假设一个订单通常要经过下单，配送，完成等步骤。
 ### UML类图
-![state](http://ohtd7tndv.bkt.clouddn.com/state.png)
+![state](http://ohtd7tndv.bkt.clouddn.com/dp_state.png)
 
 ### 参与者
 * `AbstractOrderState` 抽象订单状态类

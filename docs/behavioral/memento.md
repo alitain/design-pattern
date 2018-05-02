@@ -14,7 +14,7 @@ Token
 ### 实现
 我们通过备忘录模式实现 undo 机制。每一次原发器对象的状态更新时，都将生成一个备忘录，并且保存下来。在适当的时候实现撤销操作。
 ### UML类图
-![memento](http://ohtd7tndv.bkt.clouddn.com/memento.png)
+![memento](http://ohtd7tndv.bkt.clouddn.com/dp_memento.png)
 
 ### 参与者
 * `Originator` 原发器，需要创建一个备忘录，用以记录当前时刻它的内部状态；使用备忘录恢复内部状态。

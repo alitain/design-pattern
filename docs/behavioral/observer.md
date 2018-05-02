@@ -16,4 +16,4 @@
 php 官方扩展库提供了相关的接口，如 SplSubject，SplObserver 和 SplObserverStorage。
 
 ### UML类图
-![observer](http://ohtd7tndv.bkt.clouddn.com/observer.png)
+![observer](http://ohtd7tndv.bkt.clouddn.com/dp_observer.png)

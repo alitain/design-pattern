@@ -13,7 +13,7 @@
 同事A可以做一项工作包括两部分，这项工作A只会做第一部分，第二部分A也不清楚谁可以解决，但是通过中介可以完成。
 
 ### UML类图
-![mediator](http://ohtd7tndv.bkt.clouddn.com/mediator.png)
+![mediator](http://ohtd7tndv.bkt.clouddn.com/dp_mediator.png)
 
 ### 参与者
 * `MediatorInterface` 中介者定一个接口用于和各个同事通信

@@ -13,4 +13,4 @@
 * 当类将创建对象的职责委托给多个帮助子类中的某一个，并且你希望将哪一个帮组子类是代理这一信息局部化的时候。
 
 ### UML类图
-![factory_method](http://ohtd7tndv.bkt.clouddn.com/factory_method.png)
+![factory_method](http://ohtd7tndv.bkt.clouddn.com/dp_factory_method.png)

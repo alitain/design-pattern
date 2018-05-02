@@ -15,4 +15,4 @@
 * 用构建在原语操作上的高层操作构建一个系统。这样一种结构在支持事务的信息系统中很常见。
 
 ### UML类图
-![command](http://ohtd7tndv.bkt.clouddn.com/command.png)
+![command](http://ohtd7tndv.bkt.clouddn.com/dp_command.png)

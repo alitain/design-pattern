@@ -15,7 +15,7 @@
 我们假设一类复杂产品由A、B、C三部分组成，使用 Builder抽象出这类产品的构建过程。
 
 ### UML类图
-![builder](http://ohtd7tndv.bkt.clouddn.com/builder.png)
+![builder](http://ohtd7tndv.bkt.clouddn.com/dp_builder.png)
 
 ### 参与者
 * `BuilerInterface` 为创建一个Product对象的各个部件指定抽象接口。

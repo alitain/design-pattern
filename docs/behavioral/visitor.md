@@ -10,7 +10,7 @@
 * 定义对象结构的类很少改变，但经常需要在此结构上定义新的操作。改变对象结构需要重新定义所有访问者的接口，这可能需要很大的代价。
 
 ### UML类图
-![visitor](http://ohtd7tndv.bkt.clouddn.com/visitor.png)
+![visitor](http://ohtd7tndv.bkt.clouddn.com/dp_visitor.png)
 
 ### 参与者
 * `VisitorInterface` 访问者接口，需要访问几个对象就需要几个方法声明

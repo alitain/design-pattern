@@ -13,7 +13,7 @@
 PHP 自带 clone() 方法，我们只需要调用就可以克隆出一个对象，通过 __clone() 魔术方法，我们可以实现浅拷贝或深拷贝。
 
 ### UML类图
-![prototype](http://ohtd7tndv.bkt.clouddn.com/prototype.png)
+![prototype](http://ohtd7tndv.bkt.clouddn.com/dp_prototype.png)
 
 ### 参与者
 * `AbstractPrototype` 原型
