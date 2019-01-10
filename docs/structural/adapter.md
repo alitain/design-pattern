@@ -19,7 +19,7 @@
 [Github](https://github.com/alitain/design-pattern/tree/master/src/Structural/Adapter)
 
 ### UML类图
-![adapter](http://ohtd7tndv.bkt.clouddn.com/dp_adapter.png)
+![adapter](http://static.alitain.tech/dp_adapter.png)
 
 ### 参与者
 * `TargetInterface` 想要使用的类的接口

@@ -13,7 +13,7 @@
 [Github](https://github.com/alitain/design-pattern/tree/master/src/Behavioral/Visitor)
 
 ### UML类图
-![visitor](http://ohtd7tndv.bkt.clouddn.com/dp_visitor.png)
+![visitor](http://static.alitain.tech/dp_visitor.png)
 
 ### 参与者
 * `VisitorInterface` 访问者接口，需要访问几个对象就需要几个方法声明

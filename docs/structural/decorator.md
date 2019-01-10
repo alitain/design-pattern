@@ -16,7 +16,7 @@
 [Github](https://github.com/alitain/design-pattern/tree/master/src/Structural/Decorator)
 
 ### UML类图
-![decorator](http://ohtd7tndv.bkt.clouddn.com/dp_decorator.png)
+![decorator](http://static.alitain.tech/dp_decorator.png)
 
 ### 参与者
 * `ComponentInterface` 组件接口，具体的组件和装饰器需要实现

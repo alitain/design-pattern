@@ -18,7 +18,7 @@ Objects for States（状态对象）
 [Github](https://github.com/alitain/design-pattern/tree/master/src/Behavioral/State)
 
 ### UML类图
-![state](http://ohtd7tndv.bkt.clouddn.com/dp_state.png)
+![state](http://static.alitain.tech/dp_state.png)
 
 ### 参与者
 * `AbstractOrderState` 抽象订单状态类

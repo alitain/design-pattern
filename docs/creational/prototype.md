@@ -16,7 +16,7 @@ PHP 自带 clone() 方法，我们只需要调用就可以克隆出一个对象�
 [Github](https://github.com/alitain/design-pattern/tree/master/src/Creational/Prototype)
 
 ### UML类图
-![prototype](http://ohtd7tndv.bkt.clouddn.com/dp_prototype.png)
+![prototype](http://static.alitain.tech/dp_prototype.png)
 
 ### 参与者
 * `AbstractPrototype` 原型

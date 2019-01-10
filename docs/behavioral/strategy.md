@@ -20,7 +20,7 @@
 [Github](https://github.com/alitain/design-pattern/tree/master/src/Behavioral/Strategy)
 
 ### UML类图
-![strategy](http://ohtd7tndv.bkt.clouddn.com/dp_strategy.png)
+![strategy](http://static.alitain.tech/dp_strategy.png)
 
 ### 参与者
 * `SortStrategyInterface` 排序策略接口

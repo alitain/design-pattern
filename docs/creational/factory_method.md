@@ -16,4 +16,4 @@
 [Github](https://github.com/alitain/design-pattern/tree/master/src/Creational/FactoryMethod)
 
 ### UML类图
-![factory_method](http://ohtd7tndv.bkt.clouddn.com/dp_factory_method.png)
+![factory_method](http://static.alitain.tech/dp_factory_method.png)

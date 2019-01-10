@@ -22,7 +22,7 @@ Handle/Body。
 [Github](https://github.com/alitain/design-pattern/tree/master/src/Structural/Bridge)
 
 ### UML类图
-![bridge](http://ohtd7tndv.bkt.clouddn.com/dp_bridge.png)
+![bridge](http://static.alitain.tech/dp_bridge.png)
 
 ### 参与者
 * `AbstractService` 抽象的部分，服务类

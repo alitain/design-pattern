@@ -16,7 +16,7 @@
 [Github](https://github.com/alitain/design-pattern/tree/master/src/Behavioral/Mediator)
 
 ### UML类图
-![mediator](http://ohtd7tndv.bkt.clouddn.com/dp_mediator.png)
+![mediator](http://static.alitain.tech/dp_mediator.png)
 
 ### 参与者
 * `MediatorInterface` 中介者定一个接口用于和各个同事通信

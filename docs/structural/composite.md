@@ -12,4 +12,4 @@
 [Github](https://github.com/alitain/design-pattern/tree/master/src/Structural/Composite)
 
 ### UML类图
-![composite](http://ohtd7tndv.bkt.clouddn.com/dp_composite.png)
+![composite](http://static.alitain.tech/dp_composite.png)

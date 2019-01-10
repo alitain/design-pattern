@@ -15,7 +15,7 @@
 [Github](https://github.com/alitain/design-pattern/tree/master/src/Behavioral/Interpreter)
 
 ### UML类图
-![interpreter](http://ohtd7tndv.bkt.clouddn.com/dp_interpreter.png)
+![interpreter](http://static.alitain.tech/dp_interpreter.png)
 
 ### 参与者
 * `AbstractExpression` 抽象表达式，声明一个抽象的解释操作，这个接口为抽象语法树中所有的节点共享。

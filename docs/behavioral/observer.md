@@ -19,4 +19,4 @@ php 官方扩展库提供了相关的接口，如 SplSubject，SplObserver 和 S
 [Github](https://github.com/alitain/design-pattern/tree/master/src/Behavioral/Observer)
 
 ### UML类图
-![observer](http://ohtd7tndv.bkt.clouddn.com/dp_observer.png)
+![observer](http://static.alitain.tech/dp_observer.png)

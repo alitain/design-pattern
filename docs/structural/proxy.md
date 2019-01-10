@@ -17,7 +17,7 @@ Surrogate
 [Github](https://github.com/alitain/design-pattern/tree/master/src/Structural/Proxy)
 
 ### UML类图
-![proxy](http://ohtd7tndv.bkt.clouddn.com/dp_proxy.png)
+![proxy](http://static.alitain.tech/dp_proxy.png)
 
 ### 参与者
 * `SubjectInterface` Proxy 和 RealSubject的接口，保证任何使用 RealSubject的地方都可以访问 Proxy

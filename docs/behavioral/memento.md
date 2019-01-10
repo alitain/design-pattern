@@ -18,7 +18,7 @@ Token
 [Github](https://github.com/alitain/design-pattern/tree/master/src/Behavioral/Memento)
 
 ### UML类图
-![memento](http://ohtd7tndv.bkt.clouddn.com/dp_memento.png)
+![memento](http://static.alitain.tech/dp_memento.png)
 
 ### 参与者
 * `Originator` 原发器，需要创建一个备忘录，用以记录当前时刻它的内部状态；使用备忘录恢复内部状态。

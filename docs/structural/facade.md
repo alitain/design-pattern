@@ -16,7 +16,7 @@
 [Github](https://github.com/alitain/design-pattern/tree/master/src/Structural/Facade)
 
 ### UML类图
-![facade](http://ohtd7tndv.bkt.clouddn.com/dp_facade.png)
+![facade](http://static.alitain.tech/dp_facade.png)
 
 ### 参与者
 * `Facade` 为用户提供的简单接口

@@ -18,4 +18,4 @@
 [Github](https://github.com/alitain/design-pattern/tree/master/src/Behavioral/Command)
 
 ### UML类图
-![command](http://ohtd7tndv.bkt.clouddn.com/dp_command.png)
+![command](http://static.alitain.tech/dp_command.png)

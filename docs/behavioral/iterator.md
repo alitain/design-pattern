@@ -19,7 +19,7 @@ SPL 提供了统一的迭代器接口 Iterator，只需要实现这个接口我�
 [Github](https://github.com/alitain/design-pattern/tree/master/src/Behavioral/Iterator)
 
 ### UML类图
-![iterator](http://ohtd7tndv.bkt.clouddn.com/dp_iterator.png)
+![iterator](http://static.alitain.tech/dp_iterator.png)
 
 ### 参与者
 * `Iterator` SPL 提供的统一迭代器接口

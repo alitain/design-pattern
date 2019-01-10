@@ -13,7 +13,7 @@
 [Github](https://github.com/alitain/design-pattern/tree/master/src/Creational/Singleton)
 
 ### UML类图
-![singleton](http://ohtd7tndv.bkt.clouddn.com/dp_singleton.png)
+![singleton](http://static.alitain.tech/dp_singleton.png)
 
 ### 参与者
 * `Singleton` 定义一个 getInstance 操作访问它的唯一实例。

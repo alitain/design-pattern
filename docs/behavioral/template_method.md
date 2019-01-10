@@ -13,7 +13,7 @@
 [Github](https://github.com/alitain/design-pattern/tree/master/src/Behavioral/TemplateMethod)
 
 ### UML类图
-![template_method](http://ohtd7tndv.bkt.clouddn.com/dp_template_method.png)
+![template_method](http://static.alitain.tech/dp_template_method.png)
 
 ### 参与者
 * `AbstractClass` 抽象类，定义抽象的原语操作，具体的类将重定义他们实现一个算法的各个步骤；实现一个模板方法，定义一个算法的骨架。

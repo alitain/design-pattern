@@ -18,7 +18,7 @@
 [Github](https://github.com/alitain/design-pattern/tree/master/src/Creational/Builder)
 
 ### UML类图
-![builder](http://ohtd7tndv.bkt.clouddn.com/dp_builder.png)
+![builder](http://static.alitain.tech/dp_builder.png)
 
 ### 参与者
 * `BuilerInterface` 为创建一个Product对象的各个部件指定抽象接口。

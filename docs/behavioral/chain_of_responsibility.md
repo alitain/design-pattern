@@ -19,7 +19,7 @@
 [Github](https://github.com/alitain/design-pattern/tree/master/src/Behavioral/ChainOfResponsibility)
 
 ### UML类图
-![chain_of_responsibility](http://ohtd7tndv.bkt.clouddn.com/dp_chain_of_responsibility.png)
+![chain_of_responsibility](http://static.alitain.tech/dp_chain_of_responsibility.png)
 
 ### 参与者
 * `AbstractHandler` 抽象处理者，内部定义了当存在下一个继任者的时候，会自动调用继任者的处理方法。

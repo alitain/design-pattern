@@ -18,7 +18,7 @@
 [Github](https://github.com/alitain/design-pattern/tree/master/src/Structural/Flyweight)
 
 ### UML类图
-![flyweight](http://ohtd7tndv.bkt.clouddn.com/dp_flyweight.png)
+![flyweight](http://static.alitain.tech/dp_flyweight.png)
 
 ### 参与者
 * `FlyweightInterface` 描述一个接口，通过这个接口 flyweight 可以接受并作用于外部状态。

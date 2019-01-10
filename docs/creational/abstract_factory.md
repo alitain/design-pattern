@@ -17,7 +17,7 @@ Kit
 [Github](https://github.com/alitain/design-pattern/tree/master/src/Creational/AbstractFactory)
 
 ### UML类图
-![abstract_factory](http://ohtd7tndv.bkt.clouddn.com/dp_abstract_factory.png)
+![abstract_factory](http://static.alitain.tech/dp_abstract_factory.png)
 
 ### 参与者
 * `AbstractFactory` 声明一个创建抽象产品对象的操作接口。
